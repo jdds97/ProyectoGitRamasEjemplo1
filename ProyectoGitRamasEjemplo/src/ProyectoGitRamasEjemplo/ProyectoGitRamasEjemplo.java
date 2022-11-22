@@ -7,6 +7,6 @@ public class ProyectoGitRamasEjemplo {
 	public static void main(String[] args) {
 		JOptionPane.showMessageDialog(null, "hello mundo");
 		int variablexM;
-		int d;
+		int da;
 	}
 }
