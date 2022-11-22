@@ -8,5 +8,8 @@ public class ProyectoGitRamasEjemplo {
 		JOptionPane.showMessageDialog(null, "hello mundo");
 		int variablexM;
 	}
+	public static void imprimeSaludo() { 
+	System.out.println(“Hei”);	
+	}
 
 }
