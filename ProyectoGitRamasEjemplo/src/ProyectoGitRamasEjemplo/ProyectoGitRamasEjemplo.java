@@ -9,5 +9,4 @@ public class ProyectoGitRamasEjemplo {
 		int variablexM;
 		int d;
 	}
-
 }
